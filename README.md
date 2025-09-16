@@ -32,21 +32,10 @@ Passionate about everything in **web development** — from crafting beautiful U
 
 ---
 
-## 📊 GitHub Stats  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" alt="Qasim's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Qasim-alhardanee&theme=radical&hide_border=true&border_radius=6" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical)  
+![Streak](https://streak-stats.demolab.com?user=qasim-alhardanee&theme=radical&hide_border=true&border_radius=6)
 
  
 
