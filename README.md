@@ -49,12 +49,16 @@ Passionate about everything in **web development** — from crafting beautiful U
 <details>
   <summary><h2>📖 My Code Journey</h2></summary>
 
-  From my first HTML page to building modern React applications —  
-  my coding journey has been all about **learning by doing**.  
-  Every project is a step forward, and I’m excited to keep growing,  
-  experimenting, and sharing my work with the world. 🚀
+  I started my journey in software development by studying **Computer Programming (Associate Degree)**, where I was introduced to many different areas of programming. Most of the courses focused on building strong **foundations**, and it was up to us to take those basics further.  
+
+  My very first course was **Web Fundamentals** (HTML & CSS), and from that moment, I knew I wanted to continue in the **web development field**. Later, I gained hands-on experience through a **one-month internship** at a company, which gave me a clearer vision of real-world web projects.  
+
+  During my studies, I also learned the basics of **JavaScript** and **Python**, which helped me strengthen my understanding of programming concepts. Over time, I became confident in **HTML, CSS, and JavaScript**, and now I’m focused on learning **React** to level up my frontend development skills.  
+
+  In addition to coding, I have a passion for **languages**. Right now, I’m learning **German**, and my long-term goal is to reach a strong level and eventually **work in Germany** as a developer. 🚀  
 
 </details>
+
 
 
 ---
