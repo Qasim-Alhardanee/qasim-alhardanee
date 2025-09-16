@@ -35,7 +35,7 @@ Passionate about everything in **web development** — from crafting beautiful U
 ## 📊 GitHub Stats
 ![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qasim-alhardanee&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=qasim-alhardanee&theme=radical)  
 
 ---
 
