@@ -33,14 +33,14 @@ Passionate about everything in **web development** — from crafting beautiful U
 ---
 
 ## 📊 GitHub Stats
-![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+![Qasim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Qasim-alhardanee&theme=radical)  
 
 ---
 
 ## 🖥️ Portfolio
-🚀 **Check out my work here:** [My Portfolio](https://your-portfolio-link.com)  
+🚀 **Check out my work here:** [My Portfolio]([https://your-portfolio-link.com](https://github.com/Qasim-Alhardanee))  
 
 ---
 
