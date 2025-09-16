@@ -35,12 +35,12 @@ Passionate about everything in **web development** — from crafting beautiful U
 ## 📊 GitHub Stats
 
 <!-- Büyük olan GitHub Stats -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" width="50%"/>
 </p>
 
 <!-- Daha küçük olan Top Languages -->
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical" width="50%"/>
 </p>
 
