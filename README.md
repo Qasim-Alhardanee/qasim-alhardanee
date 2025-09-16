@@ -34,15 +34,17 @@ Passionate about everything in **web development** — from crafting beautiful U
 
 ## 📊 GitHub Stats
 
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" align="left" width="50%"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical" align="right" width="50%"/>
-
-<!-- Daha küçük olan Streak -->
+<!-- İlk satır: iki kart yan yana -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=qasim-alhardanee&theme=radical&hide_border=true&border_radius=6" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical" width="49%"/>
 </p>
+
+<!-- İkinci satır: ortalanmış tek kart -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=qasim-alhardanee&theme=radical&hide_border=true&border_radius=6" width="60%"/>
+</p>
+
 
  
 
