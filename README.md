@@ -36,7 +36,7 @@ Passionate about everything in **web development** — from crafting beautiful U
 
 <!-- İlk satır: iki kart yan yana -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Qasim-alhardanee&show_icons=true&theme=radical" width="49%" height="%10"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-alhardanee&layout=compact&theme=radical" width="49%"/>
 </p>
 
