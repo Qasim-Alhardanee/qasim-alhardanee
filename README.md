@@ -46,16 +46,16 @@ Passionate about everything in **web development** — from crafting beautiful U
 
 ---
 
-## 📖 My Code Journey
 <details>
-  <summary>Click to read</summary>
-  
+  <summary><h2>📖 My Code Journey</h2></summary>
+
   From my first HTML page to building modern React applications —  
   my coding journey has been all about **learning by doing**.  
   Every project is a step forward, and I’m excited to keep growing,  
   experimenting, and sharing my work with the world. 🚀
-  
+
 </details>
+
 
 ---
 ✨ *Thanks for visiting my profile!*  
