@@ -51,7 +51,7 @@ Passionate about everything in **web development** — from crafting beautiful U
 ---
 
 ## 🖥️ Portfolio
-🚀 **Check out my work here:** [My Portfolio]([https://your-portfolio-link.com](https://github.com/Qasim-Alhardanee))  
+🚀 **Check out my work here:** [My Portfolio]([[https://your-portfolio-link.com](https://qasim-alhardanee.github.io/Portfolio/)](https://github.com/Qasim-Alhardanee))  
 
 ---
 
