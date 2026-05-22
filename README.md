@@ -52,7 +52,7 @@ Passionate about everything in **web development** — from crafting beautiful U
 
 ## 🖥️ Portfolio
 
-🚀 **Check out my work here:** [My Portfolio](https://qasim-alhardanee.created.app/)
+🚀 **Check out my work here:** [My Portfolio]([https://qasim-alhardanee.created.app/](https://qasim-alhardanee.netlify.app/))
 ---
 
 <details>
