@@ -63,10 +63,10 @@
 I'm a **full-stack developer** and **solo founder** building [Uni.Link](https://turkiyeunilink.com) — a verified campus social network and marketplace for university students.
 
 My path wasn't linear:
-- 🎓 **Associate Degree** in Computer Programming — where I built my foundation
-- 💼 **Internship at Turcasoft** — real-world software engineering experience
-- 🎓 **Bachelor's in Mechanical Engineering** (ongoing) — system thinking, complex problem solving
-- 🚀 **Building Uni.Link** — months of solo development: architecture, backend, mobile, web, deployment
+- 🎓 **Associate Degree** in Computer Programming (2022-2024) — where I built my foundation
+- 💼 **Internship at Turcasoft** (2024) — real-world software engineering experience
+- 🎓 **Bachelor's in Mechanical Engineering** (2024-Present) — system thinking, complex problem solving
+- 🚀 **Building Uni.Link** (2026-Present) — months of solo development: architecture, backend, mobile, web, deployment
 
 I've gone through multiple complete planning phases, encountered and solved countless technical challenges, and built an entire platform from the ground up — alone. This isn't my first project, but it's the one where everything I've learned came together.
 
@@ -86,8 +86,8 @@ A cross-platform (iOS + Android + Web) social network for verified university st
 | **Realtime** | WebSocket-based messaging & notifications |
 | **Marketplace** | Verified-only campus buy/sell/trade |
 | **Admin Panel** | 12-panel dashboard — user/content/report/community management |
-| **Website** | Landing page + legal docs + admin on Netlify |
-| **AI Moderation** | Content filtering with automated flagging |
+| **Security** | Strict Row-Level Security (RLS) on all database tables |
+| **Infrastructure**| Cloudflare CDN, GitHub Actions CI/CD |
 
 🔄 **Status:** Closed Beta — OMÜ Campus, Samsun  
 📈 **Goal:** Turkey-wide → International
@@ -99,16 +99,17 @@ A cross-platform (iOS + Android + Web) social network for verified university st
 <pre>
 Mobile:    React Native · Expo SDK 54 · TypeScript 5.9 · Zustand · TanStack Query
 Backend:   Supabase (PostgreSQL, Auth, Realtime, Storage, Edge Functions)
-Web:       Vite · React 19 · Tailwind CSS v4 · Framer Motion
+Web:       Vite · React 19 · Tailwind CSS v4 · Next.js
 Infra:     Cloudflare CDN · Netlify · GitHub Actions · Sentry
 Languages: TypeScript · JavaScript · Python · Dart
+Skills:    System Architecture · Database Design · Row-Level Security · Rapid Stack Onboarding
 </pre>
 
 ---
 
 ## 🌍 Languages
 
-**English** 🇬🇧 &nbsp;·&nbsp; **Arabic** 🇸🇦 &nbsp;·&nbsp; **Turkish** 🇹🇷 (Native) &nbsp;·&nbsp; **German** 🇩🇪 (Learning)
+**English** 🇬🇧 (Intermediate) &nbsp;·&nbsp; **Arabic** 🇸🇦 (Native) &nbsp;·&nbsp; **Turkish** 🇹🇷 (Native) &nbsp;·&nbsp; **German** 🇩🇪 (Beginner)
 
 ---
 
@@ -123,9 +124,12 @@ Languages: TypeScript · JavaScript · Python · Dart
 
 ---
 
-## 🖥️ Portfolio
+## 🖥️ Portfolio & Resume
 
-[**qasim-alhardanee.netlify.app**](https://qasim-alhardanee.netlify.app/)
+Check out my full portfolio and download my resume here:
+
+📄 [**Download Resume (PDF)**](https://qasim-alhardanee.netlify.app/Qasim-Alhardanee-CV.pdf)  
+🌐 [**qasim-alhardanee.netlify.app**](https://qasim-alhardanee.netlify.app/)
 
 ---
 
